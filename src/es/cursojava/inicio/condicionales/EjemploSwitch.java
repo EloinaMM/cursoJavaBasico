@@ -5,7 +5,7 @@ public class EjemploSwitch {
 	public static void main(String[] args) {
 		// 
 		String mes = "Enero"; 
-		
+		//solo se puede hacer con una variable
 		switch(mes) {
 			case "Enero":System.out.println("Invierno");
 			case "Febrero":System.out.println("Invierno");
